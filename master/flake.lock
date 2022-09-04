@@ -48,11 +48,11 @@
       },
       "locked": {
         "dir": "1_2_6",
-        "lastModified": 1662243401,
-        "narHash": "sha256-X3pe+ThcPFQbyi2tvTw/qYYXQ4jcINAs/gA6ObZiNY0=",
+        "lastModified": 1662255377,
+        "narHash": "sha256-AzFRlWDOoJbB/StWzJ8UEkT5W08DQlmP2Rds3pZysVU=",
         "owner": "nim-nix-pkgs",
         "repo": "opengl",
-        "rev": "c109abfcab59775468cf493917b433cfe9a98dd7",
+        "rev": "d03368ba807e1bc66d1d435d667f9dd52671f832",
         "type": "github"
       },
       "original": {
